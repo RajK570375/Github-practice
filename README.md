@@ -1,5 +1,8 @@
 # Github-practice
 
+Hello, I am in Capgemini now.
+
+
 git init		~for creating local repository
 
 git pull copy_clone_link
